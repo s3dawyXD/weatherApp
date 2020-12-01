@@ -1,9 +1,10 @@
 # weatherApp
+
 weatherApplication and timeZone
 
 JavaScript Project
 where I used:
-1- querySelector(): to access elements in the DOM 
+1- querySelector(): to access elements in the DOM
 2- async function : to synchronize getting Data from the API and Updating DOM elements
 3- fetchAPI() : to send get request to the API and get the data from it
 4- await function : to wait untill process complete then continue
